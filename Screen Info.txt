@@ -1,0 +1,36 @@
+Screen: 
+- Width: 120 (0 - 119)
+- Height: 36 (0 - 35)
+- Center: 59,5
+
+Logo:
+- Width: 83
+- Height: 5
+- Corner point: 18, 7
+
+Evee size:
+- Width: 72
+- Height: 27
+- Corner point: 5, 4
+
+Box size for game:
+- Width: 84
+- Height: 32
+- Corner point: 2,2
+
+Game box size:
+- Width: 80
+- Height: 30
+- Corner point: 4, 3
+* This game box size creates small boxes size 5x10 (for the matching game) that fit the given width and Height
+* In this case it makes 48 boxes
+
+Cell size:
+- Width: 10
+- Height: 5
+
+Player board:
+- Width: 31
+- Height: 32
+- Corner point: 87, 2
+- Center: 102
